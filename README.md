@@ -1,11 +1,11 @@
 <!-- Profile Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Hello!+I'm+Nodir+Ustoz!;IT+Mentor+%26+Teacher;Mentor+in+Programming+and+IT" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Hello!+I'm+Amirxon+Studnt!;IT+student+%26;Student+in+Programming+and+IT" alt="Typing SVG" />
 </div>
 
 ## 🧑‍💻 About Me
 
-💻 **Profession:** IT Park Mentor & Programming Teacher  
+💻 **Profession:** IT Park Student & Programming   
 🎯 **Goal:** Teaching youth, sharing knowledge, and contributing to their future  
 🎓 **Fields I Teach:** Python, Web Development, Cybersecurity  
 📚 **Experience:** Many years in IT with thousands of students trained  
